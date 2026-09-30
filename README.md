@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rdsribeiro
-- 👀 I’m interested in spectroscopy and chemometrics.
+- 👀 I’m interested in physics and mathematics.
 - 🌱 I’m currently learning more about chemometrics, programming, and the potential uses of these tools in the agrifood industry.
 - 📫 You can contact me through ricardo.dossantos@irta.cat or rdsribeiro@pm.me
 
